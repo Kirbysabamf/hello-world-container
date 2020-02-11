@@ -1,5 +1,5 @@
 FROM fedora:latest
-LABEL name=myproject/hello-world \
+LABEL name=myproject/hello-AS \
       version=0.0.1 \
       release=1 \
       com.redhat.component="chromium"
