@@ -1,7 +1,7 @@
 docker-hello-world
 ==================
 
-Minimal hello world docker image
+Minimal hello world docker image with a twist
 
 # Usage
 
